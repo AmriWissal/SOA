@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:cinema xmlns:tns="http://www.example.org/NewXMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/NewXMLSchema NewXMLSchema.xsd ">
+  <tns:Film id="Lb78" type="comedie">
+    <tns:titre>Les Bronzes</tns:titre>
+    <tns:année>1978</tns:année>
+    <tns:réalisateur>Patrice Lecontre</tns:réalisateur>
+    
+    
+  </tns:Film>
+</tns:cinema>
